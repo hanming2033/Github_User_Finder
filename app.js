@@ -1,4 +1,4 @@
-// Search input
+// Search input changed online
 const searchUser = document.querySelector('#searchUser')
 const github = new Github();
 const ui = new UI();
